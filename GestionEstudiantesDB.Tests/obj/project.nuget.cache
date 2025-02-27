@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LMshCM1yTsg=",
+  "dgSpecHash": "Jkv+6tZ7dEY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB.Tests\\GestionEstudiantesDB.Tests.csproj",
+  "projectFilePath": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB.Tests\\GestionEstudiantesDB.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basto\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\basto\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

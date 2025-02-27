@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kz+jOOOXixk=",
+  "dgSpecHash": "3Qdh7ZFdBb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj",
+  "projectFilePath": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\basto\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\basto\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

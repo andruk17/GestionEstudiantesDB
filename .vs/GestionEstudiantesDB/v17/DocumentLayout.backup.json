@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|c:\\users\\basto\\onedrive\\documentos\\github\\gestionestudiantesdb\\gestionestudiantesdb\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|solutionrelative:gestionestudiantesdb\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|c:\\users\\basto\\onedrive\\documentos\\github\\gestionestudiantesdb\\gestionestudiantesdb\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|solutionrelative:gestionestudiantesdb\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|c:\\users\\basto\\onedrive\\documentos\\github\\gestionestudiantesdb\\gestionestudiantesdb\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|solutionrelative:gestionestudiantesdb\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|c:\\users\\basto\\onedrive\\documentos\\github\\gestionestudiantesdb\\gestionestudiantesdb\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|solutionrelative:gestionestudiantesdb\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|c:\\users\\basto\\onedrive\\documentos\\github\\gestionestudiantesdb\\gestionestudiantesdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3883C681-E092-4BBF-8EF2-E19455492741}|GestionEstudiantesDB\\GestionEstudiantesDB.csproj|solutionrelative:gestionestudiantesdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "GestionEstudiantesDB\\Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "GestionEstudiantesDB\\Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:11:57.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "GestionEstudiantesDB\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Services\\JwtService.cs",
+              "RelativeToolTip": "GestionEstudiantesDB\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:11:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "GestionEstudiantesDB\\Controllers\\MateriasController.cs",
+              "ToolTip": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "GestionEstudiantesDB\\Controllers\\MateriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:11:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "GestionEstudiantesDB\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "GestionEstudiantesDB\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:11:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Program.cs",
+              "RelativeDocumentMoniker": "GestionEstudiantesDB\\Program.cs",
+              "ToolTip": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\Program.cs",
+              "RelativeToolTip": "GestionEstudiantesDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:10:52.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

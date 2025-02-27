@@ -36,7 +36,7 @@ namespace GestionEstudiantesDB.Controllers
                 return BadRequest("El estudiante no puede tener al mismo profesor en más de una materia.");
 
             await _repository.AddAsync(inscripcion);
-            return Ok("Registro de inscripción creado con éxito.");
+            return Ok("Registro de inscripción creado correctamente.");
         }
     }
 }

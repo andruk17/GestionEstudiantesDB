@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj": {}
+    "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj": {
+    "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj",
+        "projectUniqueName": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj",
         "projectName": "GestionEstudiantesDB",
-        "projectPath": "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj",
+        "projectPath": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\GestionEstudiantesDB.csproj",
         "packagesPath": "C:\\Users\\basto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\basto\\Downloads\\Proyectos de pruebas\\GestionEstudiantesDB\\GestionEstudiantesDB\\obj\\",
+        "outputPath": "C:\\Users\\basto\\OneDrive\\Documentos\\GitHub\\GestionEstudiantesDB\\GestionEstudiantesDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -108,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
